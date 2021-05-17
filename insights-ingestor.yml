@@ -1,0 +1,4 @@
+azure:
+  configserver-uri: https://fcs-uat-kv.vault.azure.net/
+  enabled: true
+message: "Hello from config server"
